@@ -6,6 +6,7 @@ Set your username and password.
 
 Set serverUrl, that should point to folder partisRss
 
+
 Donations: 
 paypal: amadej.pevec@gmail.com
 
